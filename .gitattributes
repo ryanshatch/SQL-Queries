@@ -3,4 +3,4 @@
 # * text -s sql
 *.sql linguist-detectable=true
 * linguist-language=SQL
-
+"SQL-Queries" linguist-language=SQL
