@@ -2,4 +2,5 @@
 # text=auto
 # * text -s sql
 *.sql linguist-detectable=true
-* linguist-language=sql
+* linguist-language=SQL
+
