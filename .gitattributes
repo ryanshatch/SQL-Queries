@@ -1,6 +1,9 @@
 # Auto detect text files and perform LF normalization
 # text=auto
-# * text -s sql
+* text -s sql
 *.sql linguist-detectable=true
 * linguist-language=SQL
 "SQL-Queries" linguist-language=SQL
+"SQL-Queries" linguist-language=SQL
+"SQL-Queries" linguist-language=sql
+"SQL-Queries" linguist-language=sql
