@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>SQL Queries</h1>
+  <h1>MySQL Queries</h1>
   <h2>Table of Contents:</h2>
   <ul>
     <li>
